@@ -24,9 +24,11 @@ Puede comprar un producto por:
 1. Unidad
 2. A granel (un pack).
 
-**Nuevo requerimiento:**
+Con esta información que los casos de uso podrían ser:
 
-Está oculto a propósito.
+1. Comerciante compra una gaceosa a **200**, la vende a **350** y la renta es de **150**
+2. Comerciante compra *100* gaceosa a **500**, la vende a **100** y la renta es de **95**
+3. *Nuevo requerimiento:* Está oculto a propósito.
 
 ## Respecto a las tecnolgocías
 
