@@ -32,9 +32,9 @@ Está oculto a propósito.
 
 A continuación listamos las tecnolgocías soportadas para esta kata:
 
-| Tecnología    | Configuración del entorno de desarrollo |
-| ----------    | --------------------------------------- |
-| [java](/java) | [java](/java/README.md)   |
+| Tecnología                | Configuración del entorno de desarrollo |
+| ----------                | --------------------------------------- |
+| [java](/tecnologias/java) | [java + maven](/tecnologias/java/maven/README.md)   |
 
 Debido a que cada tecnolgocía tiene sus particularidades cada una de ellas tendrá una Configuración particular que podrá encontrarse en la carpeta específica por tecnolgocía.
 
