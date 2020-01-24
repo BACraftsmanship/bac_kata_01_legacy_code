@@ -3,6 +3,7 @@
 ## Indice
 
 - [Foco de la kata](#foco-de-la-kata)
+- [Lineamientos](#Lineamientos)
 - [Descripción funcional del problema](#descripción-funcional-del-problema)
 - [Respecto a las tecnolgocías](#respecto-a-las-tecnolgocías)
 - [Configuración de los ambientes de desarrollo](#configuración-de-los-ambientes-de-desarrollo)
@@ -10,10 +11,16 @@
   
 ## Foco de la kata
 
-Agregar una nueva funcionanlidad a un código, que no cuenta con pruebas automatizadas, reduciendo el riego del impacto de la modificación. Dividiremos la actividad en las siguientes fases:
+Agregar una nueva funcionanlidad a un código, que no cuenta con pruebas automatizadas, reduciendo el riego del impacto de la modificación. 
+
+Dividiremos la actividad en las siguientes fases:
 
 1. Escrituras de pruebas que incrementen la cobertura (characterization test)
 2. Agregar nueva característica (feature)
+
+## Lineamientos
+
+[Presentación][kata_01_legacy_code]
 
 ## Descripción funcional del problema
 
@@ -24,7 +31,7 @@ Puede comprar un producto por:
 1. Unidad
 2. A granel (un pack).
 
-Con esta información que los casos de uso podrían ser:
+Con la información anterior podríamos pensar en los casos de uso:
 
 1. Comerciante compra una gaceosa a **200**, la vende a **350** y la renta es de **150**
 2. Comerciante compra *100* gaceosa a **500**, la vende a **100** y la renta es de **95**
@@ -38,7 +45,7 @@ A continuación listamos las tecnolgocías soportadas para esta kata:
 | ----------                | --------------------------------------- |
 | [java](/tecnologias/java) | [java + maven](/tecnologias/java/maven/kata-01-legacy-code/README.md)   |
 
-Debido a que cada tecnolgocía tiene sus particularidades cada una de ellas tendrá una Configuración particular que podrá encontrarse en la carpeta específica por tecnolgocía.
+Debido a que cada tecnolgocía tiene sus particularidades cada una de ellas tendrá una Configuración particular que podrá encontrarse en la carpeta específica para cada una de ellas.
 
 > NOTA: Si necesitan agregar una nueva tecnolgocía puede hacer a través de un [PR][PR]
 
@@ -47,5 +54,5 @@ Debido a que cada tecnolgocía tiene sus particularidades cada una de ellas tend
 - [?]()
 - [diegosanchez](https://github.com/diegosanchez)
 
-
 [PR]: https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests
+[kata_01_legacy_code]: https://docs.google.com/presentation/d/1vBhbeofyAWflItnfvbxufMioiO6toPZ8VFt5LV86Fts/edit?usp=sharing
