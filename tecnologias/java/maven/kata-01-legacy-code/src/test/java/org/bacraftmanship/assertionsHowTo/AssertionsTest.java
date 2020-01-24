@@ -1,6 +1,5 @@
 package org.bacraftmanship.assertionsHowTo;
 
-import jdk.nashorn.internal.ir.annotations.Ignore;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
@@ -14,7 +13,7 @@ public class AssertionsTest
 {
 
     @Test
-    @Disabled
+    @Disabled("Example!")
     public void testIsDisabled() {
         assertThat(false).isTrue();
 
