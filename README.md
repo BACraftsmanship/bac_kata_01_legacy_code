@@ -24,7 +24,7 @@ Dividiremos la actividad en las siguientes fases:
 
 ## Descripción funcional del problema
 
-Un comerciante necesita conocer el margen de ganancia que tiene al momento de vender un producto (ej.: Mirinda de 600ml) que ha comprado a un precio X vendiendolo a un precio Y.
+Un comerciante necesita conocer el margen de ganancia que tiene al momento de vender un producto (ej.: Mirinda de 600ml) que ha comprado a un precio `X` vendiendolo a un precio `Y`. La ganancia será igual a `Y - X`
 
 Puede comprar un producto por:
 
@@ -51,7 +51,7 @@ Debido a que cada tecnolgocía tiene sus particularidades cada una de ellas tend
 
 ## Colaboradores
 
-- [?]()
+- [Chevere (?)]()
 - [diegosanchez](https://github.com/diegosanchez)
 
 [PR]: https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests
