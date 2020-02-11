@@ -33,8 +33,8 @@ Puede comprar un producto por:
 
 Con la información anterior podríamos pensar en los casos de uso:
 
-1. Comerciante compra una gaceosa a **200**, la vende a **350** y la renta es de **150**
-2. Comerciante compra *100* gaceosa a **500**, la vende a **100** y la renta es de **95**
+1. Comerciante compra una gaseosa a **200**, la vende a **350** y la renta es de **150**
+2. Comerciante compra *100* gaseosa a **500**, la vende a **100** y la renta es de **95**
 3. *Nuevo requerimiento:* Está oculto a propósito.
 
 ## Respecto a las tecnolgocías
