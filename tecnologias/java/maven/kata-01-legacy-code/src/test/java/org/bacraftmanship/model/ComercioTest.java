@@ -1,7 +1,6 @@
-package org.bacraftmanship.assertionsHowTo.model;
+package org.bacraftmanship.model;
 
 import org.assertj.core.data.Percentage;
-import org.bacraftmanship.model.Comercio;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

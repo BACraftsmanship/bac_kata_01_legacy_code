@@ -1,4 +1,4 @@
-package org.bacraftmanship.assertionsHowTo;
+package org.bacraftmanship.comoHagoUnaPrueba;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
@@ -9,18 +9,18 @@ import static org.assertj.core.api.Assertions.assertThatThrownBy;
 /**
  * Unit test for simple App.
  */
-public class AssertionsTest
+public class PruebaDeEjemplo
 {
 
     @Test
     @Disabled("Example!")
-    public void testIsDisabled() {
+    public void testDeshabilitado() {
         assertThat(false).isTrue();
 
     }
 
     @Test
-    public void assertBooleanValues()
+    public void comprobarValoresBooleanos()
     {
         assertThat(true).isTrue();
         assertThat( "12".equals("12")).isTrue();
@@ -30,7 +30,7 @@ public class AssertionsTest
     }
 
     @Test
-    public void testingExceptions() {
+    public void probarExceptions() {
 
         assertThatThrownBy(() -> {
             throw new UnknownError();
