@@ -17,6 +17,15 @@ Para finalizar la instalación, dentro de la carpeta del proyecto ejecutar el co
 
 Podemos ejecutarlos con el comando `yarn test`.
 
+Luego de ejecutar el comando podremos ver los resultados.
+Ejemplo:
+
+![test_status](./images/test_status.png)
+
 ### Como visualizar la covertura?
 
 Para ello podemos ejecutar el comando `yarn coverage`, con el se abrirá una página web donde podremos ver el coverage.
+
+Ejemplo:
+
+![test_status](./images/coverage.png)
