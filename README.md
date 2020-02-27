@@ -44,6 +44,7 @@ A continuación listamos las tecnolgocías soportadas para esta kata:
 | Tecnología                | Configuración del entorno de desarrollo |
 | ----------                | --------------------------------------- |
 | [java](/tecnologias/java) | [java + maven](/tecnologias/java/maven/kata-01-legacy-code/README.md)   |
+| [nodejs](/tecnologias/nodejs) | [nodejs + yarn + jest](/tecnologias/nodejs/README.md)   |
 
 Debido a que cada tecnolgocía tiene sus particularidades cada una de ellas tendrá una Configuración particular que podrá encontrarse en la carpeta específica para cada una de ellas.
 
@@ -52,6 +53,7 @@ Debido a que cada tecnolgocía tiene sus particularidades cada una de ellas tend
 ## Colaboradores
 
 - [diegosanchez](https://github.com/diegosanchez)
+- [danielmaldonado](https://github.com/maldonadod)
 
 [PR]: https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests
 [kata_01_legacy_code]: https://docs.google.com/presentation/d/1vBhbeofyAWflItnfvbxufMioiO6toPZ8VFt5LV86Fts/edit?usp=sharing
