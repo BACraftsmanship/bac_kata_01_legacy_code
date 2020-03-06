@@ -52,8 +52,8 @@ Debido a que cada tecnolgocía tiene sus particularidades cada una de ellas tend
 
 ## Colaboradores
 
-- [diegosanchez](https://github.com/diegosanchez)
 - [danielmaldonado](https://github.com/maldonadod)
+- [diegosanchez](https://github.com/diegosanchez)
 
 [PR]: https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests
 [kata_01_legacy_code]: https://docs.google.com/presentation/d/1vBhbeofyAWflItnfvbxufMioiO6toPZ8VFt5LV86Fts/edit?usp=sharing
