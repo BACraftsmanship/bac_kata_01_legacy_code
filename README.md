@@ -5,7 +5,7 @@
 - [Foco de la kata](#foco-de-la-kata)
 - [Lineamientos](#Lineamientos)
 - [Descripción funcional del problema](#descripción-funcional-del-problema)
-- [Respecto a las tecnolgocías](#respecto-a-las-tecnolgocías)
+- [Respecto a las tecnologías](#respecto-a-las-tecnologías)
 - [Configuración de los ambientes de desarrollo](#configuración-de-los-ambientes-de-desarrollo)
 - [Colaboradores](#colaboradores)
   
@@ -37,23 +37,25 @@ Con la información anterior podríamos pensar en los casos de uso:
 2. Comerciante compra *100* gaseosa a **500**, la vende a **100** y la renta es de **95**
 3. Cliente paga con una `Vaca` y la ganancia es la `Vaca`
 
-## Respecto a las tecnolgocías
+## Respecto a las tecnologías
 
-A continuación listamos las tecnolgocías soportadas para esta kata:
+A continuación listamos las tecnologías soportadas para esta kata:
 
 | Tecnología                | Configuración del entorno de desarrollo |
 | ----------                | --------------------------------------- |
 | [java](/tecnologias/java) | [java + maven](/tecnologias/java/maven/kata-01-legacy-code/README.md)   |
 | [nodejs](/tecnologias/nodejs) | [nodejs + yarn + jest](/tecnologias/nodejs/README.md)   |
+| [python](/tecnologias/python) | [python 3.6+](/tecnologias/python/README.md)   |
 
-Debido a que cada tecnolgocía tiene sus particularidades cada una de ellas tendrá una Configuración particular que podrá encontrarse en la carpeta específica para cada una de ellas.
+Debido a que cada tecnología tiene sus particularidades cada una de ellas tendrá una Configuración particular que podrá encontrarse en la carpeta específica para cada una de ellas.
 
-> NOTA: Si necesitan agregar una nueva tecnolgocía puede hacer a través de un [PR][PR]. Contactarse con [diegosanchez][slack_diegosanchez] para mayor información.
+> NOTA: Si necesitan agregar una nueva tecnología puede hacer a través de un [PR][PR]. Contactarse con [diegosanchez][slack_diegosanchez] para mayor información.
 
 ## Colaboradores
 
 - [diegosanchez](https://github.com/diegosanchez)
 - [danielmaldonado](https://github.com/maldonadod)
+- [romeroyonatan](https://gitlab.com/romeroyonatan)
 
 [PR]: https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests
 [kata_01_legacy_code]: https://docs.google.com/presentation/d/1vBhbeofyAWflItnfvbxufMioiO6toPZ8VFt5LV86Fts/edit?usp=sharing
