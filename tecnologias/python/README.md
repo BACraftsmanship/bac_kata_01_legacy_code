@@ -5,6 +5,7 @@ Este proyecto se construyó utilizando las siguientes versiones de herramientas:
 | Tecnología | Versión   |
 | ---------- | -------   |
 | python     | 3.6+      |
+| coverage   | 5.0.3     |
 
 (Probado en Python 3.6, 3.7 y 3.8)
 
