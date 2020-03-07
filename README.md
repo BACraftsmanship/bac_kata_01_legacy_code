@@ -45,6 +45,7 @@ A continuación listamos las tecnolgocías soportadas para esta kata:
 | ----------                | --------------------------------------- |
 | [java](/tecnologias/java) | [java + maven](/tecnologias/java/maven/kata-01-legacy-code/README.md)   |
 | [nodejs](/tecnologias/nodejs) | [nodejs + yarn + jest](/tecnologias/nodejs/README.md)   |
+| [kotlin ](/tecnologias/kotlin) | [java + maven](/tecnologias/kotlin/gradle/kata-01-legacy-code/README.md)   |
 
 Debido a que cada tecnolgocía tiene sus particularidades cada una de ellas tendrá una Configuración particular que podrá encontrarse en la carpeta específica para cada una de ellas.
 
