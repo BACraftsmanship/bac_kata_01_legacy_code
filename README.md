@@ -53,8 +53,8 @@ Debido a que cada tecnología tiene sus particularidades cada una de ellas tendr
 
 ## Colaboradores
 
-- [diegosanchez](https://github.com/diegosanchez)
 - [danielmaldonado](https://github.com/maldonadod)
+- [diegosanchez](https://github.com/diegosanchez)
 - [romeroyonatan](https://gitlab.com/romeroyonatan)
 
 [PR]: https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests
