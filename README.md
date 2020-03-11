@@ -46,7 +46,7 @@ A continuación listamos las tecnologías soportadas para esta kata:
 | [java](/tecnologias/java) | [java + maven](/tecnologias/java/maven/kata-01-legacy-code/README.md)   |
 | [nodejs](/tecnologias/nodejs) | [nodejs + yarn + jest](/tecnologias/nodejs/README.md)   |
 | [python](/tecnologias/python) | [python 3.6+](/tecnologias/python/README.md)   |
-| [kotlin ](/tecnologias/kotlin) | [java + maven](/tecnologias/kotlin/gradle/kata-01-legacy-code/README.md)   |
+| [kotlin ](/tecnologias/kotlin) | [kotlin + gradle](/tecnologias/kotlin/gradle/bac_kata-01-legacy-code/README.md)   |
 
 Debido a que cada tecnología tiene sus particularidades cada una de ellas tendrá una Configuración particular que podrá encontrarse en la carpeta específica para cada una de ellas.
 
