@@ -27,11 +27,16 @@ Podemos ejecutarlos con el comando `make test`.
 
 ```sh
 $ make test
-python3 -m unittest
-.s...
-----------------------------------------------------------------------
-Ran 5 tests in 0.000s
-
+python -m unittest --verbose                                                            
+test_comprobar_valores_booleanos (tests.como_hago_una_prueba.test_prueba_de_ejemplo.PruebaDeEjemploTests) ... ok
+test_deshabilitado (tests.como_hago_una_prueba.test_prueba_de_ejemplo.PruebaDeEjemploTests) ... skipped 'Example!'
+test_probar_exceptions (tests.como_hago_una_prueba.test_prueba_de_ejemplo.PruebaDeEjemploTests) ... ok
+test_comerciante_compra_100_gaseosa_por_500_vende_por_100_la_ganancia_es_95 (tests.model.test_comercio.ComercioTests) ... ok
+test_comerciante_compra_gaseosa_por_200_vende_por_350_la_ganancia_es_100 (tests.model.test_comercio.ComercioTests) ... ok
+                                                                                                                                                                                
+----------------------------------------------------------------------  
+Ran 5 tests in 0.001s                                                                   
+                                                                                        
 OK (skipped=1)
 ```
 

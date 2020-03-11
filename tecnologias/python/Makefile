@@ -12,6 +12,6 @@ coverage:
 	@xdg-open htmlcov/index.html
 
 test:
-	python -m unittest
+	python -m unittest --verbose
 
 .PHONY: clean coverage test 
