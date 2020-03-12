@@ -46,6 +46,7 @@ A continuación listamos las tecnologías soportadas para esta kata:
 | [java](/tecnologias/java) | [java + maven](/tecnologias/java/maven/kata-01-legacy-code/README.md)   |
 | [nodejs](/tecnologias/nodejs) | [nodejs + yarn + jest](/tecnologias/nodejs/README.md)   |
 | [python](/tecnologias/python) | [python 3.6+](/tecnologias/python/README.md)   |
+| [kotlin ](/tecnologias/kotlin) | [kotlin + gradle](/tecnologias/kotlin/gradle/bac_kata-01-legacy-code/README.md)   |
 
 Debido a que cada tecnología tiene sus particularidades cada una de ellas tendrá una Configuración particular que podrá encontrarse en la carpeta específica para cada una de ellas.
 
@@ -56,6 +57,7 @@ Debido a que cada tecnología tiene sus particularidades cada una de ellas tendr
 - [danielmaldonado](https://github.com/maldonadod)
 - [diegosanchez](https://github.com/diegosanchez)
 - [romeroyonatan](https://gitlab.com/romeroyonatan)
+- [nelsitoPuglisi](https://gitlab.com/nelsitoPuglisi)
 
 [PR]: https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests
 [kata_01_legacy_code]: https://docs.google.com/presentation/d/1vBhbeofyAWflItnfvbxufMioiO6toPZ8VFt5LV86Fts/edit?usp=sharing
